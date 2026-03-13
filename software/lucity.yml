@@ -1,0 +1,11 @@
+name: "Lucity"
+website_url: "https://lucity.cloud"
+source_code_url: "https://github.com/zeitlos/lucity"
+description: "PaaS built on Kubernetes, Helm, and ArgoCD. Alternative to Railway, Vercel, Heroku. Fully ejectable to standard infrastructure-as-code."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - K8S
+tags:
+  - Self-hosting Solutions
